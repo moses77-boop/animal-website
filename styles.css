@@ -1,15 +1,18 @@
-body img {
+body {
+    background-color: #e57c3f;
+    font-family: courier new, monospace;
+}
 
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
     display: block;
-
     margin-left: auto;
-
     margin-right: auto;
-
     width: 25%;
-
     border-radius: 25px;
-
     border: 2px solid black;
-
 }
